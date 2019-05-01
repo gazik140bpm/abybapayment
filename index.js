@@ -13,7 +13,7 @@ bot.on('/start', (msg) => {
         title: 'My Test Invoice',
         description: 'TeleBot loves payments!',
         payload: 'telebot-test-invoice',
-        providerToken: '4242 4242 4242 4242',
+        providerToken: '381764678:TEST:9647',
         startParameter: 'pay',
         currency: 'EUR',
         prices: [
